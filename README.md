@@ -8,10 +8,7 @@ This repository provides code and data to reproduce the results from our paper:
 ## Purpose
 
 This repository is intended to ensure reproducibility of the results provided in the paper. All code and data provided here allow readers to recreate the main findings.
-
-## Project Structure
-
- **Code File**: The Jupyter notebook is necessary to run the model, perform data preprocessing, and reproduce figures from the paper.
+The Jupyter notebook is necessary to run the model, perform data preprocessing, and reproduce figures from the paper.
 
 
 ## Reproducing the Results
