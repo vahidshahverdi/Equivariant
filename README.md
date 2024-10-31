@@ -7,7 +7,7 @@ This repository provides code and data to reproduce the results from our paper:
 
 ## Purpose
 
-This repository is intended to ensure reproducibility of the results provided in the paper. All code and data provided here allow readers to recreate the main findings, following the SIAM Journal on Matrix Analysis and Applications (SIMAX) standards.
+This repository is intended to ensure reproducibility of the results provided in the paper. All code and data provided here allow readers to recreate the main findings.
 
 ## Project Structure
 
@@ -43,8 +43,5 @@ All parameter settings used in the experiments are provided in the notebook to f
 
 The latest version of the code is hosted on a public repository to ensure accessibility: [https://github.com/vahidshahverdi/Equivariant.git].
 
-## Additional Information
-
-For long-term accessibility, a zipped snapshot of this repository will be deposited in SIMAX Supplementary Materials.
 
 
