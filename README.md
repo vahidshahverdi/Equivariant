@@ -30,7 +30,7 @@ TensorFlow version: 2.11.0
 
 ### Steps to Reproduce
 
-1. **Install Dependencies**: Install the required libraries using `pip install -r requirements.txt`.
+1. **Install Dependencies**: Install the required libraries mentioned above.
 2. **Data Preparation**: The MNIST dataset, consisting of 60,000 training and 10,000 test images of handwritten digits (0-9), is loaded directly using TensorFlow's built-in `keras.datasets` module. Each image is grayscale, sized at 28x28 pixels.
 3. **Model Training**: Execute the Jupyter notebook `Equivariant_Linear_Autoencoder.ipynb` to train linear autoencoder, semi-equivariant linear autoencoder (without enforcing the realization format from our paper), and linear equivariant autoencdoer. The rank is set at 99 and the group action is the horizontal shift.
 4. **Evaluation and Visualization**: Follow the instructions in the notebook to visualize and evaluate the reconstruction quality of shifted images.
