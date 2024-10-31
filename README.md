@@ -19,14 +19,10 @@ After loading the required packages, everything should work smoothly.
 
 - **Programming Language**: Python, version 3.10.5
 - **Libraries**: 
-NumPy version: 1.23.5
-
-SciPy version: 1.9.3
-
-Matplotlib version: 3.6.2
-
-Scikit-learn version: 1.1.3
-
+NumPy version: 1.23.5;
+SciPy version: 1.9.3;
+Matplotlib version: 3.6.2;
+Scikit-learn version: 1.1.3;
 TensorFlow version: 2.11.0
 
 ### Steps to Reproduce
