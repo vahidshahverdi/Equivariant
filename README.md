@@ -2,12 +2,12 @@
 
 This repository provides code and data to reproduce the results from our paper: 
 
-**Paper Title**: *Geometry of Linear Neural Networks: Equivariance and Invariance under Permutation Groups*  
+**Title**: *Geometry of Linear Neural Networks: Equivariance and Invariance under Permutation Groups*  
 **Authors**: [Kathlén Kohn, Anna-Laura Sattelberger, Vahid Shahverdi]
-
+The preprint is available at arXiv:2309.13736 
 ## Purpose
 
-This repository is intended to ensure reproducibility of the results provided in the paper. All code and data provided here allow readers to recreate the main findings.
+This repository is intended to ensure the reproducibility of the results provided in section 5 of the paper. All code and data provided here allow readers to recreate the main findings.
 The Jupyter notebook is necessary to run the model, perform data preprocessing, and reproduce figures from the paper.
 
 
